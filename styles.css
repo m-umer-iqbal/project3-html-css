@@ -1,0 +1,163 @@
+body{
+    background-color: #93CFFF;
+    margin: 0px;
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;    
+}
+hr{
+    border-color: #2289DE;
+    border-width: 5px;
+    border-style: dashed none none;
+    width: 7vw;
+}
+.article1{
+    padding-top: 5.125rem;
+}
+.front{
+    background-color: #BEE2FF;
+    padding-top: 6.25rem;
+    position: relative;
+    padding-bottom: 17.625rem;
+}
+div h1{
+    color: #279EFF;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 4rem;
+    margin: 0px;
+}
+.front-line{
+    margin: 0px;
+    text-align: center;
+    color: #2289DE;
+    padding: 10px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.coder-pic{
+    width: 34.375rem;
+    height: 31.875rem;
+    float:right;
+}
+.profile-pic{
+    width: 192px;
+    height: 192px;
+}
+h2{
+    color: #2289DE;
+    margin: 0px;
+    font-weight: 900;
+    font-size: 1.5rem;
+    padding: 25px;
+}
+#name-line{
+    color: #263238;
+    margin: 0px;
+    font-weight: 600;
+    padding-top: 25px;
+    line-height: 2;
+    text-align: center;
+}
+.welcome-para{
+    text-align: center;
+    color: #263238;
+    margin: auto;
+    width: 40%;
+    font-weight: 600;
+    line-height: 2;
+
+}
+.skill1-pic{
+    width: 330px;
+    height: 233px;
+    float: right;
+}
+.skill2-pic{
+    width: 192px;
+    height: 233px;
+    float: left;
+}
+.skill3-pic{
+    width: 220px;
+    height: 233px;
+    float: right;
+}
+.divs{
+    width: 65%;
+    margin: auto;
+    line-height: 2;
+    color: #263238;
+    font-weight: 600;
+    padding: 20px 0px;
+}
+p, h3{
+    text-align: left;
+    margin: 0px;
+}
+h3{
+    color: #2289DE;
+    font-weight: 900;
+    font-size: 1.3rem;
+    text-decoration: underline;
+    padding-bottom: 5px;
+}
+.special-h2{
+    font-size: 2rem;
+}
+.lp{
+    text-align: center;
+    line-height: 2;
+    color: #263238;
+    font-weight: 900;
+    width: 40%;
+    margin: auto;
+    font-size: 1.2rem;
+    padding-bottom: 30px;
+}
+.sla{
+    margin-bottom: 50px;
+}
+.btn {
+  background: #279EFF;
+  background-image: -webkit-linear-gradient(top, #279EFF, #2289DE);
+  background-image: -moz-linear-gradient(top, #279EFF, #2289DE);
+  background-image: -ms-linear-gradient(top, #279EFF, #2289DE);
+  background-image: -o-linear-gradient(top, #279EFF, #2289DE);
+  background-image: linear-gradient(to bottom, #279EFF, #2289DE);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'IBM Plex Sans', sans-serif;    
+  color: #BEE2FF;
+  font-size: 24px;
+  font-weight: 900;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #2289DE;
+  background-image: -webkit-linear-gradient(top, #2289DE, #279EFF);
+  background-image: -moz-linear-gradient(top, #2289DE, #279EFF);
+  background-image: -ms-linear-gradient(top, #2289DE, #279EFF);
+  background-image: -o-linear-gradient(top, #2289DE, #279EFF);
+  background-image: linear-gradient(to bottom, #2289DE, #279EFF);
+  text-decoration: none;
+}
+.la{
+    background-color: #263238;
+    padding: 30px 50px 5px 50px;
+}
+a{
+    text-decoration: none;
+    color: #2289DE;
+    padding: 10px;
+}
+a:hover{
+    color: white;
+}
+.copyright{
+    text-align: center;
+    color: white;
+    padding: 20px 20px 10px;
+    font-size: 0.75rem;
+}
